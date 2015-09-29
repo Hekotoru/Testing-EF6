@@ -1,0 +1,14 @@
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\bin\Debug\NinjaDomain.DataModel.dll
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\bin\Debug\NinjaDomain.DataModel.pdb
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.DataModel\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

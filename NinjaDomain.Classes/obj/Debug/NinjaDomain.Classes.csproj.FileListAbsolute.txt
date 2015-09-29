@@ -1,0 +1,5 @@
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csprojResolveAssemblyReference.cache
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
+C:\Users\HeCtoR\documents\visual studio 2013\Projects\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb
